@@ -124,7 +124,7 @@ h2 {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 35px;
-    background-color: white;
+    background-color: rgb(147, 208, 218);
 }
 
 .features {
